@@ -17,13 +17,6 @@ Here are some ideas to get you started:
 
 Hi! My name is Jeremy and I'm a software engineer, I enjoy keeping things simple though I guess I'm not really good at it due to overthinking...
 
-My current goals are:
-
-* Learn Rust.
-* Learn Go.
-* Improve my Linux knowledge.
-* Dive deep into a frontend framework, Solid looks very interesting.
-
 Here are a bunch of repositories you could look at:
 
 * [Dotfiles](https://github.com/Je12emy/dotfiles)
