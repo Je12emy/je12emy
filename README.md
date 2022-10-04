@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Je12emy
 
-Hi! My name is Jeremy and I'm a software engineer, I enjoy keeping things simple though I guess I'm not really good at it due to overthinking...
+Hi! My name is Jeremy and I'm a software engineer, I enjoy keeping things simple
 
 Here are a bunch of repositories you could look at:
 
