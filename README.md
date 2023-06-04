@@ -15,12 +15,9 @@ Here are some ideas to get you started:
 
 # Je12emy
 
-Hi! My name is Jeremy and I'm a software engineer, I enjoy keeping things simple
+Hi! My name is Jeremy. I'm currently working as a full stack web developer, but you may find me dabbling with lots of things outside of this area. I'm currently learning Rust on my free time, since it attracts me due to it's huge learning curve and exciting community.
 
 Here are a bunch of repositories you could look at:
 
 * [Dotfiles](https://github.com/Je12emy/dotfiles)
-* [Go boiler plate](https://github.com/Je12emy/rest_boiler)
-* [ASM 8086 car game](https://github.com/Je12emy/Game-asm)
-* [ASM sample code](https://github.com/Je12emy/8086repo)
-* [JS Archive](https://github.com/Je12emy/Archive)
+* [Shears CLI](https://github.com/Je12emy/shears-cli)
