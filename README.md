@@ -21,3 +21,4 @@ Here are a bunch of repositories you could look at:
 
 * [Dotfiles](https://github.com/Je12emy/dotfiles)
 * [Shears CLI](https://github.com/Je12emy/shears-cli)
+* [Rust Interactive Picker](https://github.com/Je12emy/cherry-picker)
